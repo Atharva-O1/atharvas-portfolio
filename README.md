@@ -1,2 +1,2 @@
-# atharva-s-portfolio
+# atharvas-portfolio
 A portfolio for Atharva.
